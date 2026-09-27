@@ -1,0 +1,5 @@
+name,email,amount
+ Alice , alice@example.com ,10
+Alice,alice@example.com,10
+Bob,bob@example.com,not-a-number
+,missing@example.com,5
